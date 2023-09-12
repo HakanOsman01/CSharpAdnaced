@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator and Comparators", "Iterator and Comparators\Iterator and Comparators.csproj", "{3AD0FA5F-09D9-4D3C-8839-80CB95EFEB3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparable Book", "Comparable Book\Comparable Book.csproj", "{EA56DA55-4118-4C0B-9BC1-0A8F4CCE57ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD0FA5F-09D9-4D3C-8839-80CB95EFEB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD0FA5F-09D9-4D3C-8839-80CB95EFEB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD0FA5F-09D9-4D3C-8839-80CB95EFEB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD0FA5F-09D9-4D3C-8839-80CB95EFEB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA56DA55-4118-4C0B-9BC1-0A8F4CCE57ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA56DA55-4118-4C0B-9BC1-0A8F4CCE57ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA56DA55-4118-4C0B-9BC1-0A8F4CCE57ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA56DA55-4118-4C0B-9BC1-0A8F4CCE57ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81D0B1CB-7F01-490B-8A05-6ECA24D1ADEC}
+	EndGlobalSection
+EndGlobal
